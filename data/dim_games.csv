@@ -1,0 +1,11 @@
+game_id,game_name,game_category,target_rtp
+1,Slots - Fruit Fiesta,Slots,0.965
+2,Slots - Ancient Treasures,Slots,0.957
+3,Blackjack Classic,Table,0.985
+4,Roulette European,Table,0.973
+5,Live Blackjack,Live,0.986
+6,Live Roulette,Live,0.975
+7,Sportsbook - Soccer,Sports,0.94
+8,Sportsbook - Tennis,Sports,0.945
+9,Sportsbook - Basketball,Sports,0.93
+10,Crash Game - Astro,Crash,0.945

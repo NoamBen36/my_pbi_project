@@ -1,0 +1,40 @@
+# --------------------
+# Power BI
+# --------------------
+*.pbix.tmp
+*.pbit.tmp
+
+# --------------------
+# Windows / OS
+# --------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --------------------
+# Visual Studio / VS Code
+# --------------------
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --------------------
+# Python / notebooks (if any)
+# --------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --------------------
+# Logs / temp
+# --------------------
+*.log
+*.tmp
+
+# --------------------
+# MacOS
+# --------------------
+.DS_Store

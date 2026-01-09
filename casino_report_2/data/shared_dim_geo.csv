@@ -1,0 +1,29 @@
+geo_id,country_code,region
+1,US,California
+2,US,Texas
+3,US,New York
+4,US,Florida
+5,US,Illinois
+6,GB,England
+7,GB,Scotland
+8,GB,Wales
+9,DE,Bavaria
+10,DE,Berlin
+11,DE,Hesse
+12,FR,Île-de-France
+13,FR,Occitanie
+14,FR,Auvergne-Rhône-Alpes
+15,ES,Madrid
+16,ES,Catalonia
+17,ES,Andalusia
+18,IT,Lombardy
+19,IT,Lazio
+20,IT,Sicily
+21,BR,São Paulo
+22,BR,Rio de Janeiro
+23,CA,Ontario
+24,CA,Quebec
+25,AU,New South Wales
+26,AU,Victoria
+27,IN,Maharashtra
+28,IN,Delhi

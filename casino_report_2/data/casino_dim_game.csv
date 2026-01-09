@@ -1,0 +1,121 @@
+game_id,game_name,provider_id,category_id,rtp_pct,volatility,is_active_flag
+G0001,Jackpot Mega,PRV01,1,94.25,Low,1
+G0002,Live Roulette,PRV06,2,97.7,High,1
+G0003,Virtual Dogs,PRV01,5,96.39,Medium,1
+G0004,Gold Mega,PRV01,1,95.59,Low,1
+G0005,Virtual Football,PRV05,5,92.94,High,1
+G0006,Live Lightning Roulette,PRV06,2,92.94,High,1
+G0007,Virtual Football,PRV04,5,92.35,Medium,1
+G0008,Virtual Football,PRV03,5,97.2,Low,1
+G0009,JetX,PRV03,4,95.61,Low,1
+G0010,Live Baccarat,PRV07,2,96.25,Low,1
+G0011,Gold Dragon,PRV04,1,92.12,Medium,1
+G0012,Virtual Football,PRV03,5,97.82,High,1
+G0013,Aviator,PRV05,4,96.99,Medium,1
+G0014,Jackpot Spin,PRV05,1,93.27,Medium,1
+G0015,Virtual Dogs,PRV02,5,93.09,Low,1
+G0016,Mega Jackpot,PRV06,1,93.1,Low,1
+G0017,Live Roulette,PRV07,2,93.83,Medium,1
+G0018,Caribbean Stud,PRV04,3,95.15,Low,1
+G0019,European Roulette,PRV03,3,94.59,High,1
+G0020,Classic Blackjack,PRV06,3,93.75,High,1
+G0021,Live Lightning Roulette,PRV05,2,95.67,Low,1
+G0022,Live Poker,PRV04,2,92.84,Medium,1
+G0023,Virtual Dogs,PRV02,5,93.75,Medium,1
+G0024,Fortune Dragon,PRV02,1,94.2,Medium,1
+G0025,European Roulette,PRV01,3,94.74,High,1
+G0026,Texas Holdem,PRV02,3,96.71,Medium,1
+G0027,JetX,PRV02,4,93.2,Low,1
+G0028,Live Dream Catcher,PRV06,2,95.09,High,1
+G0029,Texas Holdem,PRV06,3,95.55,High,1
+G0030,Rocket,PRV03,4,92.28,Low,1
+G0031,Virtual Football,PRV04,5,95.65,Low,1
+G0032,Wild Lucky,PRV02,1,93.02,High,1
+G0033,Lucky Spin,PRV04,1,92.39,Medium,1
+G0034,Virtual Dogs,PRV03,5,97.69,Low,1
+G0035,Power Jackpot,PRV06,1,97.79,High,1
+G0036,Caribbean Stud,PRV01,3,96.85,Medium,1
+G0037,Live Roulette,PRV04,2,93.83,High,1
+G0038,European Roulette,PRV05,3,92.59,High,1
+G0039,Jackpot Power,PRV07,1,96.11,High,1
+G0040,Live Baccarat,PRV02,2,94.64,Low,1
+G0041,Virtual Dogs,PRV07,5,92.73,Low,1
+G0042,Virtual Tennis,PRV03,5,94.97,Low,1
+G0043,Jackpot Mega,PRV03,1,92.21,Low,1
+G0044,Live Roulette,PRV05,2,97.46,Low,1
+G0045,Aviator,PRV07,4,93.55,High,1
+G0046,Live Lightning Roulette,PRV02,2,95.98,Medium,1
+G0047,Virtual Tennis,PRV02,5,93.87,High,1
+G0048,Virtual Football,PRV04,5,95.12,High,1
+G0049,Live Baccarat,PRV06,2,95.28,Medium,1
+G0050,Texas Holdem,PRV04,3,93.11,Low,1
+G0051,Live Roulette,PRV02,2,97.82,Medium,1
+G0052,Power Mega,PRV05,1,96.65,High,1
+G0053,Live Roulette,PRV01,2,97.64,High,1
+G0054,Gold Fortune,PRV02,1,97.37,Medium,1
+G0055,Mega Jackpot,PRV05,1,95.59,High,1
+G0056,Rocket,PRV02,4,97.53,High,1
+G0057,Virtual Tennis,PRV05,5,92.53,Low,1
+G0058,Space Crash,PRV07,4,93.18,Low,1
+G0059,Lucky Dragon,PRV01,1,92.27,Medium,1
+G0060,Aviator,PRV04,4,93.95,High,1
+G0061,Lucky Dragon,PRV01,1,94.33,Low,1
+G0062,Live Blackjack,PRV02,2,93.63,High,1
+G0063,Space Crash,PRV02,4,96.97,Low,1
+G0064,European Roulette,PRV04,3,94.14,Low,1
+G0065,Aviator,PRV07,4,93.69,Low,1
+G0066,Virtual Football,PRV07,5,95.26,Low,1
+G0067,Live Poker,PRV02,2,92.85,Medium,1
+G0068,Space Crash,PRV02,4,96.81,Low,1
+G0069,Live Roulette,PRV04,2,92.45,Medium,1
+G0070,Texas Holdem,PRV07,3,97.92,Medium,1
+G0071,Space Crash,PRV06,4,96.63,Low,1
+G0072,Live Blackjack,PRV03,2,93.19,Low,1
+G0073,Virtual Dogs,PRV06,5,92.03,Low,1
+G0074,Classic Blackjack,PRV01,3,96.89,High,1
+G0075,Rocket,PRV05,4,96.24,Low,1
+G0076,Virtual Football,PRV01,5,96.37,Low,1
+G0077,Virtual Dogs,PRV01,5,96.63,Low,1
+G0078,Rocket,PRV01,4,92.44,High,1
+G0079,Virtual Dogs,PRV01,5,94.15,Low,1
+G0080,JetX,PRV06,4,92.7,Medium,1
+G0081,Live Lightning Roulette,PRV06,2,97.18,Medium,1
+G0082,Live Poker,PRV03,2,95.74,Low,1
+G0083,Caribbean Stud,PRV04,3,93.99,Low,1
+G0084,Spin Spin,PRV04,1,92.38,Low,1
+G0085,Mega Power,PRV05,1,93.87,Medium,1
+G0086,Live Roulette,PRV03,2,93.95,Low,1
+G0087,European Roulette,PRV03,3,96.38,Medium,1
+G0088,Virtual Tennis,PRV06,5,95.83,High,1
+G0089,Virtual Dogs,PRV01,5,97.32,High,1
+G0090,Classic Blackjack,PRV06,3,94.83,Low,1
+G0091,Classic Blackjack,PRV01,3,92.72,High,1
+G0092,Virtual Tennis,PRV02,5,96.28,Medium,1
+G0093,Virtual Dogs,PRV02,5,96.56,Medium,1
+G0094,Live Lightning Roulette,PRV06,2,95.37,Medium,1
+G0095,Virtual Tennis,PRV04,5,96.63,Low,1
+G0096,Lucky Jackpot,PRV06,1,94.96,Low,1
+G0097,Wild Jackpot,PRV03,1,95.14,Low,1
+G0098,Space Crash,PRV05,4,94.57,High,1
+G0099,Gold Wild,PRV01,1,92.15,High,1
+G0100,Dragon Spin,PRV07,1,92.65,High,1
+G0101,Live Blackjack,PRV04,2,92.19,Low,1
+G0102,Classic Blackjack,PRV03,3,95.82,Medium,1
+G0103,Live Blackjack,PRV06,2,93.89,High,1
+G0104,Power Lucky,PRV03,1,95.05,High,1
+G0105,Live Blackjack,PRV02,2,97.45,Low,1
+G0106,Rocket,PRV01,4,93.5,High,1
+G0107,Texas Holdem,PRV07,3,94.46,High,1
+G0108,Live Blackjack,PRV03,2,96.53,High,1
+G0109,Fortune Star,PRV04,1,93.37,Low,1
+G0110,Live Poker,PRV07,2,92.46,Medium,1
+G0111,European Roulette,PRV07,3,93.74,Low,1
+G0112,Mega Lucky,PRV06,1,92.97,Medium,1
+G0113,Classic Blackjack,PRV07,3,97.58,Medium,1
+G0114,Texas Holdem,PRV06,3,96.85,High,1
+G0115,Virtual Football,PRV03,5,95.8,Low,1
+G0116,Caribbean Stud,PRV02,3,97.23,Low,1
+G0117,Lucky Dragon,PRV05,1,96.82,High,1
+G0118,Classic Blackjack,PRV04,3,93.12,Medium,1
+G0119,Virtual Tennis,PRV02,5,97.36,Low,1
+G0120,Rocket,PRV01,4,95.24,Medium,1
